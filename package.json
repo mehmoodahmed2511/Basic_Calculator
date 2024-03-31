@@ -1,0 +1,27 @@
+{
+  "name": "basic_calculator",
+  "version": "1.0.0",
+  "description": "A basic calculator with four operations addition,subtraction,multiplication and division",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmoodahmed2511/Basic_Calculator.git"
+  },
+  "author": "Muhammad Mehmood Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmoodahmed2511/Basic_Calculator/issues"
+  },
+  "homepage": "https://github.com/mehmoodahmed2511/Basic_Calculator#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
